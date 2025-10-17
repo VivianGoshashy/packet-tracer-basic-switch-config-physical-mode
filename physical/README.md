@@ -47,7 +47,7 @@ This guide provides step-by-step instructions for configuring a Cisco switch usi
 
 - Note: USB Serial Port (COM4)
 
-  ![Port]()
+  ![Port](https://github.com/VivianGoshashy/packet-tracer-basic-switch-config-physical-mode/blob/d1f5928b8d14210ce00ddeb5a94e0172bb368f78/Image2/port%20com4.png)
 
 
 
