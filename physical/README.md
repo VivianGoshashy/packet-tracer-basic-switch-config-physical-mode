@@ -34,7 +34,7 @@ This guide provides step-by-step instructions for configuring a Cisco switch usi
 
 - PC end: Connect to PC USB port
   
-  ![Console port](Image2/physical/console.jpeg)
+  ![Console port]([Image2/physical/console.jpeg](https://github.com/VivianGoshashy/packet-tracer-basic-switch-config-physical-mode/blob/eddfbc6d5b06a09872f32ccf5e1d61f58a729fde/Image2/console.jpeg))
 
 
 2. Identify COM Port:
