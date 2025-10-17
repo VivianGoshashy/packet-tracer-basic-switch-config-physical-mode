@@ -72,7 +72,7 @@ This single sentence powerfully captures the entire purpose of the console conne
 
 - Click Open
   
-  ![PuTTY]()
+  ![PuTTY](https://github.com/VivianGoshashy/packet-tracer-basic-switch-config-physical-mode/blob/36976773d8eb33af3324f3b541f8eea2f9f19fa7/Image2/putty%20serial%20com4.png)
 
 2. Establish Connection:
 
