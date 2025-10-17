@@ -30,7 +30,7 @@ This guide provides step-by-step instructions for configuring a Cisco switch usi
 
 1. Connect Console Cable:
 
-- Switch end Upper Switch (R2 L1 1): Connect to switch Console port
+- Switch end Upper Switch (R2 L1 1 / TOP PWR CH1): Connect to switch Console port
 
 - PC end (C5): Connect to PC USB port 
   
