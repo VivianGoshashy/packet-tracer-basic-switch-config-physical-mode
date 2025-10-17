@@ -47,6 +47,8 @@ This guide provides step-by-step instructions for configuring a Cisco switch usi
 
 - Note: USB Serial Port (COM4)
 
+  ![Port]()
+
 
 
 
