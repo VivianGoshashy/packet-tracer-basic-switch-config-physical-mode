@@ -62,7 +62,23 @@ This single sentence powerfully captures the entire purpose of the console conne
 
   ![Port](https://github.com/VivianGoshashy/packet-tracer-basic-switch-config-physical-mode/blob/d1f5928b8d14210ce00ddeb5a94e0172bb368f78/Image2/port%20com4.png)
 
+# Step 3: Configure Serial Connection
 
+1. Open PuTTY:
+
+- Connection type: Serial
+
+- Serial line: COM4
+
+- Click Open
+  
+  ![PuTTY]()
+
+2. Establish Connection:
+
+- Press Enter to activate console session
+
+- You should see switch prompt: Switch>
 
 
 
