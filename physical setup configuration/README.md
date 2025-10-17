@@ -34,7 +34,7 @@ This guide provides step-by-step instructions for configuring a Cisco switch usi
 
 - PC end: Connect to PC USB port
   
-  ![Console port](physical-setup-configuration/Image2/console.jpg)
+  ![Console port]( physical-setup-configuration/Image2/console.jpeg)
 
 
 2. Identify COM Port:
