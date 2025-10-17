@@ -4,13 +4,13 @@ A hands-on Cisco Packet Tracer lab for basic switch configuration. Covers consol
 
 # Addressing Table
 
-| Device | Interface | IP Address / Prefix |
-| :---   |  :---:    |       :---:         |
-| S1     |  VLAN 99  | 192.168.1.2 /24     |
-| S1     |  VLAN 99  | 2001:DB8:ACAD:1::2 /64 |
-| S1     |  VLAN 99  | FE80::2             |
-| PC-A   |  NIC      | 192.168.1.10 /24    |
-| PC-B   |  NIC      | 22001:DB8:ACAD:1::10 /64 |
+| Device | Interface | IP Address / Prefix | Default Gateway | 
+| :---   |  :---:    |       :---:         |  :---:          |
+| S1     |  VLAN 99  | 192.168.1.2 /24     | 192.168.1.1     |
+| S1     |  VLAN 99  | 2001:DB8:ACAD:1::2 /64 | fe80:1::1    |
+| S1     |  VLAN 99  | FE80::2             |                 |
+| PC-A   |  NIC      | 192.168.1.10 /24    |192.168.1.1      |
+| PC-B   |  NIC      | 22001:DB8:ACAD:1::10 /64 | fe80:1::1  |
 
 # Lab Objectives
 
